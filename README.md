@@ -16,10 +16,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tushar-0202-Shaw&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-### 🎎 Visitors count: <p align="center">
-  <img src="https://profile-counter.glitch.me/Tushar-0202-Shaw/count.svg" />
-
----
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
