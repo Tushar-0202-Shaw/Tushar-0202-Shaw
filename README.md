@@ -1,5 +1,5 @@
 # Hello, World! 👋 I'm Tushar Shaw.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nabinkumarshaw&label=Profile%20views&color=0e75b6&style=flat" alt="nabinkumarshaw" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tushar-0202-Shaw&label=Profile%20views&color=0e75b6&style=flat" alt="Tushar-0202-Shaw" /> </p>
 
 ## 💫 About Me:
 🔭 I’m currently pursuing my B.Tech in Siksha 'O' Anusandhan University and now I'm in my First year.<br>🌱 I’m currently learning DSA in Java.
