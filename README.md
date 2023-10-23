@@ -2,6 +2,7 @@
 
 ## 💫 About Me:
 🔭 I’m currently pursuing my B.Tech in Siksha 'O' Anusandhan University and now I'm in my First year.<br>🌱 I’m currently learning DSA in Java.
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-shaw-5a3a33283/) [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)
