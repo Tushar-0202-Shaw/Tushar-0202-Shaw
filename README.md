@@ -1,4 +1,4 @@
-# Hello, World! 👋 I'm Tushar Shaw.
+<h1 align="center">Hello, World! 👋 I'm Tushar Shaw</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tushar-0202-Shaw&label=Profile%20views&color=0e75b6&style=flat" alt="Tushar-0202-Shaw" /> </p>
 
 ## 💫 About Me:
