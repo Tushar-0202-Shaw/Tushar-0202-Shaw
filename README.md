@@ -1,8 +1,8 @@
 <h1 align="center">Hello, World! 👋 I'm Tushar Shaw</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tushar-0202-Shaw&label=Profile%20views&color=0e75b6&style=flat" alt="Tushar-0202-Shaw" /> </p>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 ## 💫 About Me:
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 🔭 I’m currently pursuing my B.Tech in Siksha 'O' Anusandhan University and now I'm in my First year.<br>🌱 I’m currently learning DSA in Java.
 
 
