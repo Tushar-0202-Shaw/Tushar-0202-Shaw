@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning **DSA in java**
 - 📫 How to reach me **tusharshaw987@gmail.com**
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-shaw-5a3a33283/) [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)
 ](https://www.instagram.com/__tushar_0202_shaw__/)
