@@ -4,6 +4,7 @@
 
 ## 💫 About Me:
 🔭 I’m currently pursuing my B.Tech in Siksha 'O' Anusandhan University and now I'm in my First year.<br>🌱 I’m currently learning DSA in Java.
+- 📫 How to reach me **tusharshaw987@gmail.com**
 
 
 ## 🌐 Socials:
