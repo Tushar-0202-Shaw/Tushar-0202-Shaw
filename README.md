@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 ## 💫 About Me:
-🔭 I’m currently pursuing my B.Tech in Siksha 'O' Anusandhan University and now I'm in my First year.<br>🌱 I’m currently learning DSA in Java.
+🔭 I’m currently pursuing my B.Tech in Siksha 'O' Anusandhan    University and now I'm in my First year.<br>🌱 I’m currently learning DSA in Java.
 
 
 ## 🌐 Socials:
