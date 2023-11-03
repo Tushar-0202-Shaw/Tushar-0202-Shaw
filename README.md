@@ -3,6 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 ## 💫 About Me:
+- 🔭 I’m currently pursuing my B.Tech in Siksha 'O' Anusandhan University and now I'm in my Second year.
 - 🌱 I’m currently learning **DSA in java**
 - 📫 How to reach me **tusharshaw987@gmail.com**
 
