@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/tushar-shaw-5a3a33283/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nabin-kumar-shaw-b812b2261" height="30" width="40" /></a>
-<a href="[https://www.instagram.com/](https://www.instagram.com/__tushar_0202_shaw__?igshid=MzRlODBiNWFlZA%3D%3D)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kumarshawnabin" height="30" width="40" /></a>
+<a href="https://www.instagram.com/__tushar_0202_shaw__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kumarshawnabin" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/tushar_shaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nabin_001" height="30" width="40" /></a>
 </p>
 
