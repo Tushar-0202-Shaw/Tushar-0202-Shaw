@@ -14,7 +14,8 @@
 </p>
 
 # 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+//![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,javascript,java" />
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Tushar-0202-Shaw&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
