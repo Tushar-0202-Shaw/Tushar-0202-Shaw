@@ -14,7 +14,6 @@
 </p>
 
 # 💻 Tech Stack:
-//![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 <img src="https://skillicons.dev/icons?i=html,css,javascript,java" />
 
 # 📊 GitHub Stats:
