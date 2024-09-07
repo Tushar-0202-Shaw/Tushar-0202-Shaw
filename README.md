@@ -16,9 +16,13 @@
 <img src="https://skillicons.dev/icons?i=html,css,javascript,java" />
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Tushar-0202-Shaw&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Tushar-0202-Shaw&theme=monokai&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tushar-0202-Shaw&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tushar-0202-Shaw&theme=radical">
+<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tushar-0202-Shaw&theme=radical">
+<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tushar-0202-Shaw&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tushar-0202-Shaw&theme=radical">
+<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tushar-0202-Shaw&theme=radical&utcOffset=8">
+<img height="166em" src="https://github-readme-stats.vercel.app/api?username=Tushar-0202-Shaw&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
+<img height="166em" src="https://github-readme-streak-stats.herokuapp.com/?user=Tushar-0202-Shaw&theme=radical">
 
 ---
 ### ✍️ Random Dev Quote
