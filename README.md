@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tushar-0202-Shaw&label=Profile%20views&color=0e75b6&style=flat" alt="Tushar-0202-Shaw" /> </p>
 
 ## 💫 About Me:
-- 🔭 I’m currently pursuing my B.Tech in Siksha 'O' Anusandhan University and now I'm in my Second year.
+- 🔭 I’m currently pursuing my B.Tech in Siksha 'O' Anusandhan University and now I'm in my Final year.
 - 🌱 I’m currently learning **Web Development**
 - 📫 How to reach me **tusharshaw987@gmail.com**
 
